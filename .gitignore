@@ -1,4 +1,5 @@
 all url.https://
+/efs/recovery/
 OUT_LOCAL
 all url.
 all url.https://github.com/.insteadOf
