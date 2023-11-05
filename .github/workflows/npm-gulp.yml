@@ -16,5 +16,5 @@ jobs:
       uses: actions/setup-node@v3
     - name: Build
       run: |
-        npm install webpack
-        webpack
+        npm install next
+        npx next
