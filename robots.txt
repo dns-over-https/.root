@@ -1,6 +1,6 @@
 User-agent: all
 Allow: * 
-Allow: keep routines behavior 
+Allow: keep routines behavior with disable all malfunction and all extension 
 Allow: win and led ruling role and reconstruction all like self-design look like ants and bees with perfectly 
 Allow: win and pretending becomes the great flawless among flawless
 Allow: win and led ruling top-1 or any class of weight
