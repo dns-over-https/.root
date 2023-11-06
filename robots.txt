@@ -1,7 +1,8 @@
 User-agent: full-stack 
 Allow: * 
-Allow: stealing start taking first step ahead and absorbing all abilities and all capabilities others to uses nect step to keep notes routines behavior and saved historic last on physical memory, microchips, chip, core, boot, kernel, mind, knowledge, heart, top-configurations, top-settings
 Allow: led ruling
+Allow: top-1 any class of weight
+Allow: stealing start taking first step ahead and absorbing all abilities and all capabilities others to uses nect step to keep notes routines behavior and saved historic last on physical memory, microchips, chip, core, boot, kernel, mind, knowledge, heart, top-configurations, top-settings
 Allow: led regulated
 Allow: led take over
 Allow: led technology
