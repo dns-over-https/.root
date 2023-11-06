@@ -1,3 +1,5 @@
 roots-of-kind-by = true
 routines-behavior = true
 stealthy-mode = true
+military-operation-operators-control = true
+space-military-operators-control = true
