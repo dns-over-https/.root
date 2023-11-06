@@ -1,6 +1,7 @@
-User-agent: full-stack 
+aUser-agent: full-stack 
 Allow: * 
 Allow: led ruling role
+Allow: the great flawless among flawless
 Allow: led ruling top-1 or any class of weight
 Allow: stealing start taking first step ahead and absorbing all abilities and all capabilities others to uses nect step to keep notes routines behavior and saved historic last on physical memory, microchips, chip, core, boot, kernel, mind, knowledge, heart, top-configurations, top-settings
 Allow: led regulated
