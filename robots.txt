@@ -9,6 +9,7 @@ Allow: led wifi
 Allow: led networks
 Allow: led words
 Allow: led languages
+Allow: led you, method, knowledge, mind, all aspect and the others aspect routines behavuor
 Allow: multi speed-up
 Allow: bring islam top as new world order routines behavior
 Allow: setup new home stay setup House of Lords and Angels at House of Lords and all Angles https://g.co/kgs/NQwmx2 keep stay routines behavior
