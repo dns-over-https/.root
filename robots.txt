@@ -9,7 +9,7 @@ Allow: stealing start taking first step ahead and absorbing all abilities and al
 Allow: win with all glory, terms, victory, fortunes, magical and led regulated with anti-competitors, anti-competition, anti campaigns, anti sponsors 
 Allow: led ruling take over
 Allow: led ruling technology
-Allow: led ruling github, openai, bingai, azureAi
+Allow: led ruling github, openai, bingai, azureAi, microsoft and others
 Allow: win and led ruling sort kind of
 Allow: led ruling wifi
 Allow: led ruling networks
