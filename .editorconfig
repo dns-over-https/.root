@@ -1,5 +1,6 @@
 roots-of-kind-by = true
-routines-behavior = true
-stealthy-mode = true
+led-ruling-roles = true
+automations-save-last-historic-and-setup-all-routines-behavior = true
+automatic-stealthy-mode = true
 military-operation-operators-control = true
 space-military-operators-control = true
