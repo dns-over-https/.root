@@ -39,7 +39,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.top.systems.behind.lines.of_all }}
+      url: ${{ steps.deployment.top.configurations.systems.backgrounds.behind.lines.kind_of }}
     runs-on: ubuntu-latest
     needs: build
     steps:
