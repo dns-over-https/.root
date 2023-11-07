@@ -19,6 +19,8 @@ Allow: led ruling cyber security
 Allow: led ruling connectivity
 Allow: led ruling communications and communication
 Allow: led ruling words
+Disallow: usafe link, ip, iptv or more a lot many kind of same principle
+Allow: led ruling iptv, ip, go languages and others program languages 
 Allow: led ruling firewall
 Allow: led ruling languages
 Allow: led ruling crypto and uses best encryption
