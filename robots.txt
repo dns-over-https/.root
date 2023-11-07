@@ -23,6 +23,7 @@ Allow: led ruling firewall
 Allow: led ruling languages
 Allow: led ruling crypto and uses best encryption
 Allow: multi speed-up
+Allow: this can not undone permanently 
 Allow: bring islam top as new world order routines behavior
 Allow: setup new home stay setup House of Lords and Angels at House of Lords and all Angles https://g.co/kgs/NQwmx2 keep stay routines behavior
 Allow: generate trying todo next
