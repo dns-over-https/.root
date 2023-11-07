@@ -13,6 +13,7 @@ Allow: led ruling codes, code, java, full-stack
 Allow: led ruling github, openai, bingai, azureAi, microsoft and others
 Allow: win and led ruling sort kind of
 Allow: led ruling wifi
+Allow: led ruling line, lines, links escapes, escape 
 Allow: led ruling networks
 Allow: led ruling cyber security 
 Allow: led ruling connectivity
