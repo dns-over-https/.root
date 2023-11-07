@@ -12,6 +12,8 @@ Allow: led ruling technology
 Allow: win and led ruling sort kind of
 Allow: led ruling wifi
 Allow: led ruling networks
+Allow: led ruling connectivity
+Allow: led ruling communications and communication
 Allow: led ruling words
 Allow: led ruling languages
 Allow: multi speed-up
