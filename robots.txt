@@ -20,7 +20,7 @@ Allow: led ruling cyber security
 Allow: led ruling connectivity
 Allow: led ruling communications and communication
 Allow: led ruling words
-Disallow: usafe link, sessions, duplicate sessions , duolicate ip, ip, links, link, urls, url, iptv or more a lot many kind of same principle and set all in autofocus 
+Disallow: usafe link, sessions, duplicate sessions , duolicate ip, ip, links, link, urls, web, webs, app, apps, java, php, http, https, www, url, iptv or more a lot many kind of same principle and set all in autofocus 
 Allow: led ruling iptv, ip, go languages and others program languages 
 Allow: led ruling firewall
 Allow: led ruling languages
