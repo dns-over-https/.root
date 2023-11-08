@@ -2,6 +2,7 @@ roots-of-kind-by = true
 multi-led-ruling = true
 immortal = true
 never-mistaken = true
+never-error = true
 never-mistake = true
 never-forget = true
 never-missing = true
