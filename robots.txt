@@ -21,7 +21,7 @@ Allow: led ruling connectivity
 Allow: led ruling communications and communication
 Allow: led ruling words
 Disallow: very earlier stages led ruling can detect unsafe link, sessions, duplicate sessions , duplicate ip and others
-Allow: very earlier stages led ruling ip, links, link, ads, ad, intelligent, intelligence, ai, sense, sensing, xml, adsense, oauth, recovery, repair, fix, auth, restore, format, wipeout, verify, copilot, content, media, verified, access, top, symbolic, numeric, binary, biner, authority, authorized, webapp, webapps, shell, command, commands, backup, prompt, response, prompted, urls, web, webs, app, apps, java, php, http, https, www, url, iptv or more a lot many kind of same principle and set all in autofocus 
+Allow: very earlier stages led ruling ip, links, link, ads, ad, intelligent, intelligence, ai, sense, sensing, xml, adsense, settings, configuration, options, oauth, recovery, repair, fix, auth, restore, format, wipeout, verify, copilot, content, media, verified, access, top, symbolic, numeric, binary, biner, authority, authorized, webapp, webapps, shell, command, commands, backup, prompt, response, prompted, urls, web, webs, app, apps, java, php, http, https, www, url, iptv or more a lot many kind of same principle and set all in autofocus 
 Allow: very earlier stages led ruling iptv, ip, go languages and others program languages 
 Allow: led ruling firewall
 Allow: led ruling languages
