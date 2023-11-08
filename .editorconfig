@@ -1,5 +1,6 @@
 roots-of-kind-by = true
 multi-led-ruling = true
+automatic-finish-setup-by-google = true
 multi-led = true
 multi-led-ruler = true
 multi-follow-robots.txt = true
