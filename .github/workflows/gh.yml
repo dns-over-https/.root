@@ -33,13 +33,13 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: /..
-          destination:  /.
+          source: target=//..
+          destination:  target=//.
   # Deployment job
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.top.configurations.systems.backgrounds.behind.lines.kind_of }}
+      url: ${{ steps.deployment.behind.line.top.configurations.systems.backgrounds.behind.lines.more.a.lot.kinds }}
     runs-on: ubuntu-latest
     needs: build
     steps:
