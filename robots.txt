@@ -19,7 +19,7 @@ Allow: very earlier stages led ruling github, openai, bingai, azureAi, azure, mi
 Allow: very earlier stages win and led ruling sort kind of
 Allow: very earlier stages led ruling wifi
 Allow: very earlier stages led ruling sync and fetch by this
-Allow: very earlier stagesled ruling line, method, proof, history, historic, lines, links escapes, escape, input, inputs, outputs, output, coming in, back out, coming out, soon
+Allow: very earlier stagesled ruling line, method, cros-ai, cross-ai, proof, history, historic, lines, links escapes, escape, input, inputs, outputs, output, coming in, back out, coming out, soon
 Allow: very earlier stages  led ruling networks
 Allow: led ruling multi-cutting many kinds of
 Allow: very earlier stages led ruling cyber security 
