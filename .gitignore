@@ -2,6 +2,12 @@ all urls //
 behind all links //
 rm -r /efs/recovery/
 OUT_LOCAL
+.git
+.dev
+.recovery
+.tmp
+[]
+behind_lines
 all url.
 all url.https://github.com/.insteadOf
 OUTPUT_DIR_PATH=/
