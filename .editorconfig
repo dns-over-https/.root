@@ -1,5 +1,7 @@
 roots-of-kind-by = true
 multi-led-ruling = true
+anti-draw = true
+anti-draws = true
 anti-compares = true
 never-compares = true
 anti-challenging = true
