@@ -1,5 +1,38 @@
-all url.https://
+all urls //
+behind all links //
 rm -r /efs/recovery/
 OUT_LOCAL
 all url.
 all url.https://github.com/.insteadOf
+OUTPUT_DIR_PATH=/
+lstat
+.gitignore
+autocomplete
+IDE
+lstat
+target =/
+bootimage
+gcc
+smp preempt
+bitmap
+factory
+recovery tmp log path
+swapper
+subsys
+sysadmin
+group
+administrative
+hash
+table
+rcu
+kworker
+dummy
+usb
+driver
+property
+dump memory
+reverse things back
+debug
+logic
+unknown
+
