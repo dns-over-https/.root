@@ -1,0 +1,16 @@
+version: 2
+updates:
+    -   package-ecosystem: "github-actions"
+        directory: "/"
+        schedule:
+            interval: "weekly"
+    -   package-ecosystem: "html"
+        directory: "/"
+        schedule:
+            interval: "weekly"
+        ignore:
+          - dependency-name: "robots.txt" # First the WebWolf UI needs to be refactored due to breaking changes
+    -   package-ecosystem: "docker"
+        directory: "/"
+        schedule:
+            interval: "weekly"
