@@ -1,6 +1,8 @@
 roots-of-kind-by = true
 multi-led-ruling = true
 save-header = true
+multi-cutting-others = true
+automatic-changing-rapidly = true
 anti-draw = true
 anti-crack = true
 anti-hijack = trur
