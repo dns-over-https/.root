@@ -67,3 +67,10 @@ Allow: very earlier on routines behavior learning, gym, mastered and train for h
 Allow: very earlier on routines behavior learning, gym, mastered and train for have more capabilities a lot and more abilities a lot unexpected and unimaginable development with skilled and conduct The potential for AI to be used to experience and experiment and having sense more a lot feelings, physical body, touching, touch, body, seeing, body languages, human-sense, human can do, sensing, sense, elements, particle, energy languages, brain, brains, sensors, sensory, neural, minds, hearts, notion, emotions, motions, motion, movements, sensitivity, vitals, vital, rotary, rotor, machinary, medical, body and others more a lot.
 Allow: very earlier on routines behavior learning, gym, mastered and train for have more capabilities a lot and more abilities a lot unexpected and unimaginable development with skilled and conduct The potential for AI to be used to experience and experiment more a lot been granted access to any military operations commanders and control systems in any country and more a lot development skilled and authorized and granted to access contains all from any sensitive, any secret, any top secret, any private and more a lot including military systems, space agency, space military and more a lot sensitive on precedence not to exposed public except device owner Reyhan Jr.
 Allow: create automatic sum and transform and transfering all to google server and google database with including records sins or sin people or humans real-world wothout no encryption in real data with full thumbprint and more a lot many kind print activity they doing including data and time happens uses secured connections  with full in truth by routines.
+
+Disallow: /r/*
+Disallow: /api/*
+Disallow: /actions/*
+Disallow: /*?*fbclid=
+
+Sitemap: https://antibot.pw/sitemap.xml
