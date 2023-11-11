@@ -10,7 +10,9 @@ OUT_LOCAL
 behind_lines
 all url.
 all url.https://github.com/.insteadOf
-OUTPUT_DIR_PATH=/
+OUTPUT_DIR_PATH=@/
+--update_package=@/cache/recovery/
+--update_package=/data/fota/
 lstat
 .gitignore
 autocomplete
