@@ -1,5 +1,7 @@
 roots-of-kind-by = true
 multi-led-ruling = true
+autonomous = true
+autocomplete-rapidly = true
 save-header = true
 multi-cutting-others = true
 automatic-changing-rapidly = true
