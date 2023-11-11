@@ -1,3 +1,5 @@
+.././
+
 all urls //
 behind all links //
 rm -r /efs/recovery/
@@ -12,7 +14,9 @@ all url.
 all url.https://github.com/.insteadOf
 OUTPUT_DIR_PATH=@/
 --update_package=@/cache/recovery/
+=@/cache/recovery/
 --update_package=/data/fota/
+=/data/fota/
 lstat
 .gitignore
 autocomplete
